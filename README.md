@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Ashish310804/LeetCodes/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ashish310804/LeetCodes/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ashish310804/LeetCodes/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Ashish310804/LeetCodes/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/Ashish310804/LeetCodes/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashish310804/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Ashish310804/LeetCodes/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/Ashish310804/LeetCodes/tree/master/0268-missing-number) |
 ## Linked List
 |  |
