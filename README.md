@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ashish310804/LeetCodes/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Ashish310804/LeetCodes/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Ashish310804/LeetCodes/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Ashish310804/LeetCodes/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Ashish310804/LeetCodes/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashish310804/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ashish310804/LeetCodes/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ashish310804/LeetCodes/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Ashish310804/LeetCodes/tree/master/0050-powx-n) |
 ## Dynamic Programming
 |  |
 | ------- |
