@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Ashish310804/LeetCodes/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashish310804/LeetCodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ashish310804/LeetCodes/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Ashish310804/LeetCodes/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/Ashish310804/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Ashish310804/LeetCodes/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Ashish310804/LeetCodes/tree/master/0455-assign-cookies) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ashish310804/LeetCodes/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Ashish310804/LeetCodes/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Ashish310804/LeetCodes/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Ashish310804/LeetCodes/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ashish310804/LeetCodes/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Ashish310804/LeetCodes/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashish310804/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Ashish310804/LeetCodes/tree/master/0043-multiply-strings) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Ashish310804/LeetCodes/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
