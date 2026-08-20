@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashish310804/LeetCodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ashish310804/LeetCodes/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Ashish310804/LeetCodes/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/Ashish310804/LeetCodes/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Ashish310804/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Ashish310804/LeetCodes/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Ashish310804/LeetCodes/tree/master/0455-assign-cookies) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Ashish310804/LeetCodes/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Ashish310804/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Ashish310804/LeetCodes/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Ashish310804/LeetCodes/tree/master/0455-assign-cookies) |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ashish310804/LeetCodes/tree/master/0023-merge-k-sorted-lists) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Ashish310804/LeetCodes/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
