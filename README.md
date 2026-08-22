@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Ashish310804/LeetCodes/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Ashish310804/LeetCodes/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ashish310804/LeetCodes/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Ashish310804/LeetCodes/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Ashish310804/LeetCodes/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashish310804/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Ashish310804/LeetCodes/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Ashish310804/LeetCodes/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Ashish310804/LeetCodes/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Ashish310804/LeetCodes/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ashish310804/LeetCodes/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Ashish310804/LeetCodes/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Ashish310804/LeetCodes/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Ashish310804/LeetCodes/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Ashish310804/LeetCodes/tree/master/0067-add-binary) |
 ## Matrix
 |  |
 | ------- |
