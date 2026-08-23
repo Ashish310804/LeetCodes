@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashish310804/LeetCodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ashish310804/LeetCodes/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Ashish310804/LeetCodes/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Ashish310804/LeetCodes/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Ashish310804/LeetCodes/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Ashish310804/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Ashish310804/LeetCodes/tree/master/0268-missing-number) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashish310804/LeetCodes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Ashish310804/LeetCodes/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/Ashish310804/LeetCodes/tree/master/0051-n-queens) |
 ## Stack
 |  |
 | ------- |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ashish310804/LeetCodes/tree/master/0098-validate-binary-search-tree) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Ashish310804/LeetCodes/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
