@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Ashish310804/LeetCodes/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashish310804/LeetCodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ashish310804/LeetCodes/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Ashish310804/LeetCodes/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ashish310804/LeetCodes/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Ashish310804/LeetCodes/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Ashish310804/LeetCodes/tree/master/0051-n-queens) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ashish310804/LeetCodes/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashish310804/LeetCodes/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Ashish310804/LeetCodes/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Ashish310804/LeetCodes/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/Ashish310804/LeetCodes/tree/master/0268-missing-number) |
 ## String
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashish310804/LeetCodes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Ashish310804/LeetCodes/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Ashish310804/LeetCodes/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ashish310804/LeetCodes/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Ashish310804/LeetCodes/tree/master/0051-n-queens) |
 ## Stack
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ashish310804/LeetCodes/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Ashish310804/LeetCodes/tree/master/0048-rotate-image) |
 ## Heap (Priority Queue)
 |  |
@@ -186,5 +190,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ashish310804/LeetCodes/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Ashish310804/LeetCodes/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Ashish310804/LeetCodes/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
