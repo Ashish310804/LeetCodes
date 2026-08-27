@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Ashish310804/LeetCodes/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Ashish310804/LeetCodes/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Ashish310804/LeetCodes/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/Ashish310804/LeetCodes/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ashish310804/LeetCodes/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Ashish310804/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Ashish310804/LeetCodes/tree/master/0268-missing-number) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ashish310804/LeetCodes/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Ashish310804/LeetCodes/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Ashish310804/LeetCodes/tree/master/0455-assign-cookies) |
 ## Bit Manipulation
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ashish310804/LeetCodes/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Ashish310804/LeetCodes/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Ashish310804/LeetCodes/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/Ashish310804/LeetCodes/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Ashish310804/LeetCodes/tree/master/0062-unique-paths) |
 ## Backtracking
 |  |
