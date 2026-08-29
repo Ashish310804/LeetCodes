@@ -1,0 +1,34 @@
+class Solution {
+    public int numDecodings(String s) {
+        int n = s.length();
+
+        if (s.charAt(0) == '0') {
+            return 0;
+        }
+
+        int[] dp = new int[n + 1];
+
+        // Empty string has 1 way
+        dp[0] = 1;
+
+        // First character
+        dp[1] = 1;
+
+        for (int i = 2; i <= n; i++) {
+
+            // Take one digit: "1" to "9"
+            if (s.charAt(i - 1) != '0') {
+                dp[i] += dp[i - 1];
+            }
+
+            // Take two digits: "10" to "26"
+            int twoDigit = Integer.parseInt(s.substring(i - 2, i));
+
+            if (twoDigit >= 10 && twoDigit <= 26) {
+                dp[i] += dp[i - 2];
+            }
+        }
+
+        return dp[n];
+    }
+}
