@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Ashish310804/LeetCodes/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Ashish310804/LeetCodes/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ashish310804/LeetCodes/tree/master/0056-merge-intervals) |
+| [0079-word-search](https://github.com/Ashish310804/LeetCodes/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Ashish310804/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Ashish310804/LeetCodes/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Ashish310804/LeetCodes/tree/master/0455-assign-cookies) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Ashish310804/LeetCodes/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Ashish310804/LeetCodes/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Ashish310804/LeetCodes/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Ashish310804/LeetCodes/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Ashish310804/LeetCodes/tree/master/0091-decode-ways) |
 ## Trie
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Ashish310804/LeetCodes/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ashish310804/LeetCodes/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Ashish310804/LeetCodes/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/Ashish310804/LeetCodes/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ashish310804/LeetCodes/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Ashish310804/LeetCodes/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/Ashish310804/LeetCodes/tree/master/0079-word-search) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ashish310804/LeetCodes/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Ashish310804/LeetCodes/tree/master/0098-validate-binary-search-tree) |
 ## Binary Search Tree
 |  |
