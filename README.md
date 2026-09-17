@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ashish310804/LeetCodes/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Ashish310804/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Ashish310804/LeetCodes/tree/master/0120-triangle) |
+| [0189-rotate-array](https://github.com/Ashish310804/LeetCodes/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ashish310804/LeetCodes/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Ashish310804/LeetCodes/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashish310804/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ashish310804/LeetCodes/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Ashish310804/LeetCodes/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Ashish310804/LeetCodes/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/Ashish310804/LeetCodes/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ashish310804/LeetCodes/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashish310804/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ashish310804/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ashish310804/LeetCodes/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Ashish310804/LeetCodes/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/Ashish310804/LeetCodes/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Ashish310804/LeetCodes/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
