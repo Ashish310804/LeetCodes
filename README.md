@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Ashish310804/LeetCodes/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Ashish310804/LeetCodes/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Ashish310804/LeetCodes/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/Ashish310804/LeetCodes/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Ashish310804/LeetCodes/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashish310804/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ashish310804/LeetCodes/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Ashish310804/LeetCodes/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Ashish310804/LeetCodes/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/Ashish310804/LeetCodes/tree/master/0224-basic-calculator) |
 ## Trie
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Ashish310804/LeetCodes/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Ashish310804/LeetCodes/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Ashish310804/LeetCodes/tree/master/0060-permutation-sequence) |
+| [0224-basic-calculator](https://github.com/Ashish310804/LeetCodes/tree/master/0224-basic-calculator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ashish310804/LeetCodes/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ashish310804/LeetCodes/tree/master/0032-longest-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/Ashish310804/LeetCodes/tree/master/0224-basic-calculator) |
 ## String Matching
 |  |
 | ------- |
