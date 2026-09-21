@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Ashish310804/LeetCodes/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Ashish310804/LeetCodes/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ashish310804/LeetCodes/tree/master/0056-merge-intervals) |
+| [0068-text-justification](https://github.com/Ashish310804/LeetCodes/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/Ashish310804/LeetCodes/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Ashish310804/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Ashish310804/LeetCodes/tree/master/0120-triangle) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Ashish310804/LeetCodes/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Ashish310804/LeetCodes/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Ashish310804/LeetCodes/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Ashish310804/LeetCodes/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/Ashish310804/LeetCodes/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Ashish310804/LeetCodes/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Ashish310804/LeetCodes/tree/master/0125-valid-palindrome) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Ashish310804/LeetCodes/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Ashish310804/LeetCodes/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Ashish310804/LeetCodes/tree/master/0068-text-justification) |
 ## Matrix
 |  |
 | ------- |
