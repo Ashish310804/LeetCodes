@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Ashish310804/LeetCodes/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Ashish310804/LeetCodes/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Ashish310804/LeetCodes/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Ashish310804/LeetCodes/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Ashish310804/LeetCodes/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/Ashish310804/LeetCodes/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Ashish310804/LeetCodes/tree/master/0268-missing-number) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ashish310804/LeetCodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Ashish310804/LeetCodes/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Ashish310804/LeetCodes/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Ashish310804/LeetCodes/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Ashish310804/LeetCodes/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ashish310804/LeetCodes/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Ashish310804/LeetCodes/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Ashish310804/LeetCodes/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Ashish310804/LeetCodes/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/Ashish310804/LeetCodes/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
@@ -253,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ashish310804/LeetCodes/tree/master/0258-add-digits) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Ashish310804/LeetCodes/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
