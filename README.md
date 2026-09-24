@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ashish310804/LeetCodes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ashish310804/LeetCodes/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Ashish310804/LeetCodes/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Ashish310804/LeetCodes/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Ashish310804/LeetCodes/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Ashish310804/LeetCodes/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashish310804/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ashish310804/LeetCodes/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Ashish310804/LeetCodes/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Ashish310804/LeetCodes/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ashish310804/LeetCodes/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ashish310804/LeetCodes/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Ashish310804/LeetCodes/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/Ashish310804/LeetCodes/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Ashish310804/LeetCodes/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
