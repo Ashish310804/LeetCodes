@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ashish310804/LeetCodes/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Ashish310804/LeetCodes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ashish310804/LeetCodes/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/Ashish310804/LeetCodes/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Ashish310804/LeetCodes/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Ashish310804/LeetCodes/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Ashish310804/LeetCodes/tree/master/0258-add-digits) |
@@ -263,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Ashish310804/LeetCodes/tree/master/0202-happy-number) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Ashish310804/LeetCodes/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
