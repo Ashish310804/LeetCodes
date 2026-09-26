@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ashish310804/LeetCodes/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Ashish310804/LeetCodes/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Ashish310804/LeetCodes/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Ashish310804/LeetCodes/tree/master/0279-perfect-squares) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashish310804/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Ashish310804/LeetCodes/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/Ashish310804/LeetCodes/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/Ashish310804/LeetCodes/tree/master/0120-triangle) |
+| [0279-perfect-squares](https://github.com/Ashish310804/LeetCodes/tree/master/0279-perfect-squares) |
 ## Backtracking
 |  |
 | ------- |
@@ -268,4 +270,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Ashish310804/LeetCodes/tree/master/0223-rectangle-area) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Ashish310804/LeetCodes/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Ashish310804/LeetCodes/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Ashish310804/LeetCodes/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
