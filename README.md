@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Ashish310804/LeetCodes/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Ashish310804/LeetCodes/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Ashish310804/LeetCodes/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Ashish310804/LeetCodes/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Ashish310804/LeetCodes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ashish310804/LeetCodes/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/Ashish310804/LeetCodes/tree/master/0223-rectangle-area) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ashish310804/LeetCodes/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Ashish310804/LeetCodes/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Ashish310804/LeetCodes/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/Ashish310804/LeetCodes/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ashish310804/LeetCodes/tree/master/0268-missing-number) |
 ## Linked List
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Ashish310804/LeetCodes/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Ashish310804/LeetCodes/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Ashish310804/LeetCodes/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Ashish310804/LeetCodes/tree/master/0089-gray-code) |
 ## Stack
 |  |
 | ------- |
