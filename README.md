@@ -326,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0913-cat-and-mouse](https://github.com/Ashish310804/LeetCodes/tree/master/0913-cat-and-mouse) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Ashish310804/LeetCodes/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
