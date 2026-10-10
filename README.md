@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Ashish310804/LeetCodes/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Ashish310804/LeetCodes/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Ashish310804/LeetCodes/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Ashish310804/LeetCodes/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Ashish310804/LeetCodes/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Ashish310804/LeetCodes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ashish310804/LeetCodes/tree/master/0202-happy-number) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Ashish310804/LeetCodes/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Ashish310804/LeetCodes/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Ashish310804/LeetCodes/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Ashish310804/LeetCodes/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Ashish310804/LeetCodes/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Ashish310804/LeetCodes/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/Ashish310804/LeetCodes/tree/master/0120-triangle) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ashish310804/LeetCodes/tree/master/0070-climbing-stairs) |
 | [0913-cat-and-mouse](https://github.com/Ashish310804/LeetCodes/tree/master/0913-cat-and-mouse) |
 ## Minimax
 |  |
