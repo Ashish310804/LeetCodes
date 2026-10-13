@@ -17,7 +17,6 @@ class Solution {
                         + Math.min(dp[j], dp[j + 1]);
             }
         }
-
         return dp[0];
     }
 }
