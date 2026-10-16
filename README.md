@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ashish310804/LeetCodes/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Ashish310804/LeetCodes/tree/master/0279-perfect-squares) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ashish310804/LeetCodes/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0458-poor-pigs](https://github.com/Ashish310804/LeetCodes/tree/master/0458-poor-pigs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashish310804/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0913-cat-and-mouse](https://github.com/Ashish310804/LeetCodes/tree/master/0913-cat-and-mouse) |
 ## Hash Table
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Ashish310804/LeetCodes/tree/master/0120-triangle) |
 | [0233-number-of-digit-one](https://github.com/Ashish310804/LeetCodes/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/Ashish310804/LeetCodes/tree/master/0279-perfect-squares) |
+| [0458-poor-pigs](https://github.com/Ashish310804/LeetCodes/tree/master/0458-poor-pigs) |
 | [0913-cat-and-mouse](https://github.com/Ashish310804/LeetCodes/tree/master/0913-cat-and-mouse) |
 ## Backtracking
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ashish310804/LeetCodes/tree/master/0062-unique-paths) |
+| [0458-poor-pigs](https://github.com/Ashish310804/LeetCodes/tree/master/0458-poor-pigs) |
 ## Sliding Window
 |  |
 | ------- |
