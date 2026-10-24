@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Ashish310804/LeetCodes/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Ashish310804/LeetCodes/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Ashish310804/LeetCodes/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Ashish310804/LeetCodes/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Ashish310804/LeetCodes/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Ashish310804/LeetCodes/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Ashish310804/LeetCodes/tree/master/0091-decode-ways) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ashish310804/LeetCodes/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ashish310804/LeetCodes/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Ashish310804/LeetCodes/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Ashish310804/LeetCodes/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Ashish310804/LeetCodes/tree/master/0224-basic-calculator) |
 ## String Matching
