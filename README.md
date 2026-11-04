@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Ashish310804/LeetCodes/tree/master/0371-sum-of-two-integers) |
 | [0384-shuffle-an-array](https://github.com/Ashish310804/LeetCodes/tree/master/0384-shuffle-an-array) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ashish310804/LeetCodes/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/Ashish310804/LeetCodes/tree/master/0415-add-strings) |
 | [0458-poor-pigs](https://github.com/Ashish310804/LeetCodes/tree/master/0458-poor-pigs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashish310804/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0913-cat-and-mouse](https://github.com/Ashish310804/LeetCodes/tree/master/0913-cat-and-mouse) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ashish310804/LeetCodes/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/Ashish310804/LeetCodes/tree/master/0224-basic-calculator) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ashish310804/LeetCodes/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/Ashish310804/LeetCodes/tree/master/0415-add-strings) |
 ## Trie
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ashish310804/LeetCodes/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Ashish310804/LeetCodes/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Ashish310804/LeetCodes/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Ashish310804/LeetCodes/tree/master/0415-add-strings) |
 ## Matrix
 |  |
 | ------- |
