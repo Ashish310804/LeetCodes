@@ -10,6 +10,7 @@ class Solution {
                     match = false;
                     break;
                 }
+                
             }
             if (match) {
                 return i;
