@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ashish310804/LeetCodes/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashish310804/LeetCodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Ashish310804/LeetCodes/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Ashish310804/LeetCodes/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ashish310804/LeetCodes/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Ashish310804/LeetCodes/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/Ashish310804/LeetCodes/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Ashish310804/LeetCodes/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Ashish310804/LeetCodes/tree/master/0371-sum-of-two-integers) |
 | [0384-shuffle-an-array](https://github.com/Ashish310804/LeetCodes/tree/master/0384-shuffle-an-array) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ashish310804/LeetCodes/tree/master/0405-convert-a-number-to-hexadecimal) |
