@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ashish310804/LeetCodes/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Ashish310804/LeetCodes/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/Ashish310804/LeetCodes/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/Ashish310804/LeetCodes/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/Ashish310804/LeetCodes/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Ashish310804/LeetCodes/tree/master/0371-sum-of-two-integers) |
 | [0384-shuffle-an-array](https://github.com/Ashish310804/LeetCodes/tree/master/0384-shuffle-an-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Ashish310804/LeetCodes/tree/master/0120-triangle) |
 | [0233-number-of-digit-one](https://github.com/Ashish310804/LeetCodes/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/Ashish310804/LeetCodes/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/Ashish310804/LeetCodes/tree/master/0343-integer-break) |
 | [0458-poor-pigs](https://github.com/Ashish310804/LeetCodes/tree/master/0458-poor-pigs) |
 | [0913-cat-and-mouse](https://github.com/Ashish310804/LeetCodes/tree/master/0913-cat-and-mouse) |
 ## Backtracking
